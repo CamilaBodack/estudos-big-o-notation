@@ -1,7 +1,7 @@
 # Big O Notation
 
 Material utilizado para estudar Big O Notation.
-Esse material tem parte do material em inglês e parte em português.
+Esse material tem parte do conteúdo em inglês e parte em português.
 
 ---
 
