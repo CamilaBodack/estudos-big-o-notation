@@ -7,13 +7,13 @@ Esse material tem parte do conteúdo em inglês e parte em português.
 
 ## Definições:
 
-- Time complexity:
+- Complexidade de tempo:
   - É o tanto de tempo utilizado para que um algoritmo seja executado.
 
-- Space complexity:
+- Complexidade de espaço:
   - É o tanto de espaço em memória que será necessária para executar o algoritmo.
 
-- O Big O Notation é uma forma algébrica de verifica o tempo de execução de um código.
+- O Big O Notation é uma forma algébrica de verificar o tempo de execução de um determinado código.
 
 ---
 
@@ -65,7 +65,7 @@ def mostrar_paisagem(paisagens: list):
 
 ## O(n²)
 
-Tempo que costuma ocorrer algoritmos que possuem dois loops aninhados onde é necessário acessar todos os elementos dos loops.
+Tempo que costuma ocorrer em algoritmos que possuem dois loops aninhados onde é necessário acessar todos os elementos dos loops.
 
 ```py
 
@@ -80,7 +80,7 @@ def combinar_listas(listas: list):
 
 ## O(2^n)
 
-Caso que ocorre onde tem algoritmos recursivos e que pode gerar dados que são incrementados até que a condição definida seja atingida.
+Caso que ocorre em alguns tipos de algoritmos recursivos e que pode gerar dados que são incrementados até que a condição definida seja atingida.
 
 O exemplo clássico é uma função para montar uma sequência de Fibonacci
 
@@ -114,7 +114,7 @@ Algoritmos que para n elementos executam procedimentos do tipo dividir para conq
 
 ## O(n!)
 
-Esses algoritmos gerar valores exponenciais até que a condição seja atingida. Geralmente possuem recursão em suas estruturas.
+Esses algorítmos geraram valores exponenciais até que a condição seja atingida. Geralmente possuem recursão em suas estruturas.
 
 ## Referências utilizadas:
 
